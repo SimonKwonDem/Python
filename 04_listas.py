@@ -1,6 +1,7 @@
 #Listas
-
+#Constructores de las listas
 my_list = list ()
+my_other_list = []
 print(len(my_list))
 
 my_list = [1,54,23,88,88]
